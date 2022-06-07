@@ -29,8 +29,7 @@
       },
       "API_HASH": {
           "description": "Get this value from https://my.telegram.org"
-          "value": "False",
-          "required": false
+          "value": "False"
       },
       "BOT_TOKEN": {
           "description": "Get this value from @BotFather"

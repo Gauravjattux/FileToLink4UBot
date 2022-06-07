@@ -1,6 +1,6 @@
 {
   "name": "FileToLink4UBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @GreyMatter_bots",
+  "description": "This bot telegram file, video, image to download link and Direct Link Generator.",
   "keywords": [
       "telegram",
       "stream",
@@ -26,6 +26,7 @@
       },
       "API_ID": {
           "description": "Get this value from https://my.telegram.org"
+          "value": "False"
       },
       "API_HASH": {
           "description": "Get this value from https://my.telegram.org"

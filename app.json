@@ -32,8 +32,7 @@
       },
       "BOT_TOKEN": {
           "description": "Get this value from @BotFather"
-          "value": "5350802701:AAFF56BsEVAf7-uAcwvfG2LJEBHvEwrwIlU
-"
+          "value": "5350802701:AAFF56BsEVAf7-uAcwvfG2LJEBHvEwrwIlU"
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"

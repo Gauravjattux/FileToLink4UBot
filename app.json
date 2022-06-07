@@ -12,10 +12,10 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/GreyMatter658/FileStreamBot/tree/main",
+  "repository": "https://github.com/Gavravjaggu/FileToLink4UBot",
   "success_url": "/",
-  "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
-  "website": "avipatilweb.ml",
+  "logo": "https://telegra.ph/file/2782242fa4e1ebc646be9.jpg",
+  "website": "https://t.me/FileToLink4UBot",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",

@@ -26,7 +26,8 @@
       },
       "API_ID": {
           "description": "Get this value from https://my.telegram.org"
-      },
+   
+   },
       "API_HASH": {
           "description": "Get this value from https://my.telegram.org"
       },
@@ -35,7 +36,7 @@
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
-          
+          "value": "11983148"
       },
       "PING_INTERVAL": {
           "description": "Add Ping Interval Default Is 500",
